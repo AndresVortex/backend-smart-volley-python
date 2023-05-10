@@ -1,0 +1,1 @@
+web: gunicorn smart_volley.wsgi --log-file -
